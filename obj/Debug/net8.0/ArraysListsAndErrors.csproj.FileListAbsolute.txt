@@ -1,0 +1,14 @@
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/bin/Debug/net8.0/ArraysListsAndErrors
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/bin/Debug/net8.0/ArraysListsAndErrors.deps.json
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/bin/Debug/net8.0/ArraysListsAndErrors.runtimeconfig.json
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/bin/Debug/net8.0/ArraysListsAndErrors.dll
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/bin/Debug/net8.0/ArraysListsAndErrors.pdb
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.AssemblyInfoInputs.cache
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.AssemblyInfo.cs
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.csproj.CoreCompileInputs.cache
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.dll
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/refint/ArraysListsAndErrors.dll
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.pdb
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.genruntimeconfig.cache
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ref/ArraysListsAndErrors.dll
