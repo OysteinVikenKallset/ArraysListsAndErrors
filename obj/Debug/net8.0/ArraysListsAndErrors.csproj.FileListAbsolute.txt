@@ -12,3 +12,4 @@
 /Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.pdb
 /Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.genruntimeconfig.cache
 /Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ref/ArraysListsAndErrors.dll
+/Users/oysteinvikenkallset/Programmering/C#/ArraysListsAndErrors/ArraysListsAndErrors/obj/Debug/net8.0/ArraysListsAndErrors.sourcelink.json
